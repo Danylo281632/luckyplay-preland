@@ -1,1 +1,11 @@
+# macOS
 .DS_Store
+
+# Editor / harness
+.claude/
+node_modules/
+
+# Working files (drafts, reference screenshots — not for deploy)
+IMG*.jpg
+app-preview.png
+Знімок*.png
